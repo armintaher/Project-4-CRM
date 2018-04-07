@@ -1,0 +1,14 @@
+Quit
+Inventory Diapers 1
+Inventory Rattles 2
+Inventory Bottles 3
+Summarize
+Quit
+
+/** Custom Test 2 Results should be: **/
+Inventory Diapers 1
+Inventory Rattles 2
+Inventory Bottles 3
+Summarize
+Quit
+/********* end of Custom Test 2*************/

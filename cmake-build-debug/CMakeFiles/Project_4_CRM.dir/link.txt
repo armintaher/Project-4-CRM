@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Project_4_CRM.dir/main.cpp.o CMakeFiles/Project_4_CRM.dir/MyString.cpp.o CMakeFiles/Project_4_CRM.dir/Project4.cpp.o  -o Project_4_CRM.exe -Wl,--out-implib,libProject_4_CRM.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

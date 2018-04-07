@@ -1,0 +1,18 @@
+Inventory Diapers 1
+Inventory Rattles 2
+Inventory Bottles 6
+
+Purchase Isabelle Bottles 1
+Purchase Bob Bottles 3
+Purchase Isabelle Bottles 2
+Summarize
+Quit
+
+
+/** Custom Test 3 Results should be: **/
+There are 0 Bottles, 1 Diapers and 2 Rattles in inventory
+we have had a total of 2 different customers
+Isabelle has purchased the most Bottles (3)
+no one has purchased any Diapers
+no one has purchased any Rattles
+/********* end of Custom Test 3*************/
